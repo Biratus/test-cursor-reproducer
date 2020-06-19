@@ -1,0 +1,22 @@
+{
+  "resources":[
+    {"pattern":"\\QMETA-INF/native/libnetty_transport_native_epoll_x86_64.so\\E"}, 
+    {"pattern":"\\QMETA-INF/services/io.smallrye.config.SmallRyeConfigFactory\\E"}, 
+    {"pattern":"\\QMETA-INF/services/io.smallrye.mutiny.infrastructure.MultiInterceptor\\E"}, 
+    {"pattern":"\\QMETA-INF/services/io.smallrye.mutiny.infrastructure.UniInterceptor\\E"}, 
+    {"pattern":"\\QMETA-INF/services/io.vertx.core.spi.BufferFactory\\E"}, 
+    {"pattern":"\\QMETA-INF/services/io.vertx.core.spi.FutureFactory\\E"}, 
+    {"pattern":"\\QMETA-INF/services/java.sql.Driver\\E"}, 
+    {"pattern":"\\QMETA-INF/services/jdk.vm.ci.hotspot.HotSpotJVMCIBackendFactory\\E"}, 
+    {"pattern":"\\QMETA-INF/services/jdk.vm.ci.services.JVMCIServiceLocator\\E"}, 
+    {"pattern":"\\QMETA-INF/services/org.eclipse.microprofile.config.spi.ConfigSource\\E"}, 
+    {"pattern":"\\QMETA-INF/services/org.eclipse.microprofile.config.spi.Converter\\E"}, 
+    {"pattern":"\\Qapplication.properties\\E"}, 
+    {"pattern":"\\Qcom/mysql/cj/TlsSettings.properties\\E"}, 
+    {"pattern":"\\Qdb/migration/V1__createDB.sql\\E"}, 
+    {"pattern":"\\Qjbossts-properties.xml\\E"}, 
+    {"pattern":"\\Qorg/flywaydb/core/internal/version.txt\\E"}, 
+    {"pattern":"\\Qorg/jboss/threads/Version.properties\\E"}
+  ],
+  "bundles":[{"name":"com.mysql.cj.LocalizedErrorMessages"}]
+}
